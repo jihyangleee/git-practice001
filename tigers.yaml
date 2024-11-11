@@ -1,16 +1,7 @@
 team: Tigers
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-manager: Brenda
-=======
-manager: Deborah
->>>>>>> to-merge
-=======
-manager: Deborah
->>>>>>> d13c67c (Edit Tigers members)
 
-coach: Ruth
+manager: Brenda
 
 
 members:
@@ -20,3 +11,4 @@ members:
 - George
 - Tyler
 - Park
+- Kim
